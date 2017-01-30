@@ -2,3 +2,5 @@ Git folder is made and it is hidden.
 It will hold the versions
 
 Staging area lets you work out what to commit
+
+Not sure
