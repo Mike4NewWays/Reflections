@@ -1,0 +1,8 @@
+Did not know there was a FC command.
+So it is good to know.
+
+Stop making the same mistakes.
+
+Commit after a logical change in code.
+
+Saving multiple files in one commit, logic change can involve more than one file.
